@@ -3,11 +3,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0099E6&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+colaborador!+%F0%9F%91%8B;Como+podemos+ajudar+hoje%3F;Seu+problema+%C3%A9+nossa+prioridade+%F0%9F%92%99" alt="Typing SVG" /></a>
 
 </div>
-💙 Sobre nós
+<h2>💙 Sobre nós </h2>
 
 Somos o Help Desk da Elgin, a equipe de suporte técnico interno. Cuidamos para que os colaboradores tenham equipamentos, sistemas e acessos funcionando bem no dia a dia.
 
-🛠️ Como podemos ajudar
+<h2> 🛠️ Como podemos ajudar</h2>
 
 💻 Computadores, notebooks e periféricos
 
